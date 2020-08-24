@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100981" started-at="2020-08-20T08:29:06Z" finished-at="2020-08-20T08:30:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100981" started-at="2020-08-20T08:29:06Z" finished-at="2020-08-20T08:30:47Z">
+      <class name="tests.TestYahooRegistration">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:tests.TestYahooRegistration@49ec71f8]" name="openApp" is-config="true" duration-ms="51469" started-at="2020-08-20T08:29:07Z" finished-at="2020-08-20T08:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="yahooRegister()[pri:0, instance:tests.TestYahooRegistration@49ec71f8]" name="yahooRegister" duration-ms="33182" started-at="2020-08-20T08:29:58Z" finished-at="2020-08-20T08:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahooRegister -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:tests.TestYahooRegistration@49ec71f8]" name="closeApp" is-config="true" duration-ms="16210" started-at="2020-08-20T08:30:31Z" finished-at="2020-08-20T08:30:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- tests.TestYahooRegistration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
